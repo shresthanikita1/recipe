@@ -1,0 +1,140 @@
+{
+    "receipes": {
+        "momos": {
+            "id": "1",
+            "title": "Momos",
+            "Description": "Enjoy the taste of Nepal with our Momos. These dumplings are filled with a delicious mixture of minced meat and spices, then steamed to perfection. Served with a homemade dipping sauce.",
+            "image": "Images/momos.jpg",
+            "ingredients": ["Ground meat", "Flour", "Ginger", "Garlic", "Soy sauce", "Sesame oil", "Cilantro", "Green onions"],
+            "steps": {
+                "step1": "Prepare the filling by mixing ground meat, ginger, garlic, soy sauce, and green onions.",
+                "step2": "Roll out the dough and fill it with the meat mixture.",
+                "step3": "Steam the momos until cooked through.",
+                "step4": "Serve with a dipping sauce made from sesame oil, soy sauce, and cilantro."
+            }
+        },
+
+        "dal_bhat": {
+            "id": "2",
+            "title": "Dal Bhat",
+            "Description": "Dal Bhat is a traditional Nepali meal consisting of steamed rice (bhat) and lentil soup (dal). It's often accompanied by various side dishes.",
+            "image": "Images/dalbhat.jpg",
+            "ingredients": ["Rice", "Lentils", "Spices", "Vegetables", "Ghee"],
+            "steps": {
+                "step1": "Cook rice and lentils separately.",
+                "step2": "Prepare a tempering with spices and ghee, then mix it with the cooked lentils.",
+                "step3": "Serve the dal and rice with various side dishes like vegetables, pickles, and meat if desired."
+            }
+        },
+
+        "sel_roti": {
+            "id": "3",
+            "title": "Sel Roti",
+            "Description": "Sel Roti is a traditional Nepali rice-based doughnut. It's crispy on the outside and soft on the inside, often enjoyed with tea.",
+            "image": "Images/selroti.jpg",
+            "ingredients": ["Rice flour", "Sugar", "Milk", "Cardamom"],
+            "steps": {
+                "step1": "Prepare a batter by mixing rice flour, sugar, milk, and cardamom.",
+                "step2": "Heat oil in a pan and shape the batter into rings.",
+                "step3": "Deep-fry until golden brown.",
+                "step4": "Serve with tea or yogurt."
+            }
+        },
+
+        "alu_tama": {
+            "id": "4",
+            "title": "alutama",
+            "Description": "Alu Tama is a popular Nepali dish made with bamboo shoots (tama) and potatoes (alu) in a flavorful curry.",
+            "image": "Images/alutama.jpg",
+            "ingredients": ["Bamboo shoots", "Potatoes", "Spices", "Tomatoes"],
+            "steps": {
+                "step1": "Cook bamboo shoots and potatoes until tender.",
+                "step2": "Prepare a curry with spices and tomatoes.",
+                "step3": "Mix the cooked bamboo shoots and potatoes with the curry.",
+                "step4": "Serve with rice."
+            }
+        },
+
+        "dhido": {
+            "id": "5",
+            "title": "Dhido",
+            "Description": "Dhido is a traditional Nepali dish made from buckwheat or millet flour. It has a dense, dough-like consistency and is typically eaten with pickles or vegetables.",
+            "image": "Images/dhido.jpg",
+            "ingredients": ["Buckwheat or millet flour", "Water"],
+            "steps": {
+                "step1": "Mix flour with water to form a thick dough.",
+                "step2": "Shape the dough into small portions.",
+                "step3": "Serve with pickles or vegetables."
+            }
+        },
+
+        "gundruk": {
+            "id": "6",
+            "title": "Gundruk",
+            "Description": "Gundruk is a fermented leafy green vegetable, often used in Nepali cuisine as a side dish or in soups.",
+            "image": "Images/gundruk.jpg",
+            "ingredients": ["Leafy greens (usually mustard greens)", "Salt", "Spices"],
+            "steps": {
+                "step1": "Wash and cut the leafy greens.",
+                "step2": "Ferment them by adding salt and spices.",
+                "step3": "Use as a side dish or in soups."
+            }
+        },
+
+        "yomari": {
+            "id": "7",
+            "title": "Yomari",
+            "Description": "Yomari is a sweet dumpling filled with a mixture of jaggery and sesame seeds, often made during the Yomari Punhi festival in Nepal.",
+            "image": "Images/yomari.jpg",
+            "ingredients": ["Rice flour", "Jaggery", "Sesame seeds"],
+            "steps": {
+                "step1": "Prepare a dough from rice flour.",
+                "step2": "Fill the dough with a mixture of jaggery and sesame seeds.",
+                "step3": "Steam until cooked.",
+                "step4": "Enjoy this sweet treat."
+            }
+        },
+
+        "thukpa": {
+            "id": "8",
+            "title": "Thukpa",
+            "Description": "Thukpa is a hearty Tibetan-Nepali noodle soup made with vegetables, meat, and spices.",
+            "image": "Images/thukpa.jpg",
+            "ingredients": ["Noodles", "Vegetables", "Meat (optional)", "Spices"],
+            "steps": {
+                "step1": "Cook noodles and set aside.",
+                "step2": "Prepare a broth with vegetables and meat (if desired).",
+                "step3": "Pour the broth over the noodles.",
+                "step4": "Serve hot."
+            }
+        },
+
+        "newari_bara": {
+            "id": "9",
+            "title": "Newari Bara",
+            "Description": "Newari Bara is a traditional Newari lentil pancake, often served with spicy sauces.",
+            "image": "Images/newaribara.jpg",
+            "ingredients": ["Lentils", "Spices", "Oil"],
+            "steps": {
+                "step1": "Soak lentils, grind them into a batter, and add spices.",
+                "step2": "Heat oil and pour a ladle of batter to make pancakes.",
+                "step3": "Fry until golden brown.",
+                "step4": "Serve with spicy sauces."
+            }
+        },
+
+        "chatamari": {
+            "id": "10",
+            "title": "Chatamari",
+            "Description": "Chatamari is often referred to as the 'Nepali Pizza.' It's a thin rice crepe topped with various ingredients.",
+            "image": "Images/chatamari.jpg",
+            "ingredients": ["Rice flour", "Minced meat or vegetables", "Spices"],
+            "steps": {
+                "step1": "Make a thin rice crepe.",
+                "step2": "Top it with minced meat or vegetables and spices.",
+                "step3": "Cook until the crepe is crispy.",
+                "step4": "Enjoy your Nepali 'pizza.'"
+            }
+        }
+    }
+}

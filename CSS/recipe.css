@@ -1,0 +1,131 @@
+header{
+    padding: 1px;
+    background-color: #e8b313;
+    color: white;
+    text-align: center;
+    margin: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#phone{
+    text-align:left;
+    margin-top: 30px;
+}
+
+nav{
+    padding: 3px;
+    background-color: #495057;
+    margin-bottom: 40PX;
+}
+
+nav a{
+        text-decoration: none;
+        color: white;
+        margin: 80px;
+}
+
+
+nav a:hover{
+    background-color: yellowgreen;
+    color: white;
+}
+.recipe-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.recipe-container {
+    width: calc(33.33% - 20px);
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    background-color: blueviolet (146,238,9);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(238, 4, 4, 0.1);
+}
+
+.recipe-image {
+    width: 100%;
+    max-height: 250px;
+    object-fit: cover;
+}
+
+.recipe-details {
+    padding: 30px;
+}
+
+.recipe-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.recipe-button {
+    background-color: rgb(11, 194, 235);
+    color: rgb(1, 1, 1);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.recipe-description,
+.recipe-ingredients,
+.recipe-steps {
+    display: none;
+}
+
+.show-more-button-container {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.show-more-button {
+    background-color: rgb(8, 238, 246);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.show-more-button-container {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 50%;
+}
+
+.search-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#search-button {
+    background-color: red;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+.navbar{
+    text-align: center;
+}
+
+body{
+    background-color: #abb72b;
+}
